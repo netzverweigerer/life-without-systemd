@@ -9,6 +9,8 @@ To search distrowatch for distributions without systemd, you can try:
 
 http://distrowatch.com/search.php?ostype=All&category=All&origin=All&basedon=All&notbasedon=None&desktop=All&architecture=All&package=All&rolling=All&isosize=All&netinstall=All&language=All&defaultinit=Not+systemd&status=Active#simple
 
+Please note that this also lists init-hybrids, e.g. Linux Mint, which is shown there as "Init: systemd,SysV".
+
 ### without-systemd.org
 without-systemd.org has a Wiki that lists various options of sane systemd-free distributions:
 
