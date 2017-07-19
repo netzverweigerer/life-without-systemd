@@ -1,4 +1,4 @@
-# life-without-systemd
+# life-without-systemd - A curated list on how to live your life without having to deal with systemd
 How to survive the systemd hype (without using systemd, obviously)
 
 
