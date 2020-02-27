@@ -22,7 +22,7 @@ http://without-systemd.org/wiki/index.php/Main_Page
 There are various distributions that I prefer to choose currently when having to decide for some sane systemd-free distribution:
 
 ### Void Linux
-https://www.voidlinux.eu/
+https://www.voidlinux.org/
 A rolling-release distribution built around the XBPS binary package manager. Uses [runit](http://smarden.org/runit/) as an init scheme.
 
 I have written a wrapper script for the awesome XBPS package manager called [VPM](https://github.com/netzverweigerer/vpm), which I want to recommend here to get used to XBPS' command line syntax. People have asked me to include it here so here it is.
